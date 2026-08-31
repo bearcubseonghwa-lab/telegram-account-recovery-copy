@@ -1,0 +1,43 @@
+---
+issue:
+  title: "Cannot access Telegram account — login code sent to active session I don't have access to"
+  body: |
+    Hello,
+
+    I am unable to access my Telegram account. On 30 August, at approximately 22:30 MSK, I was suddenly logged out of my account on my phone. When I try to log back in, the only option given is to enter a code sent to an active session — but I do not have access to that session.
+
+    I still have access to my phone number, but there is no option to receive the code via SMS or any other method — only through the active session, which I believe belongs to the attacker.
+
+    Additionally, my friends who I had recent conversations with told me that all messages from the last 12 hours have been deleted from our chats. This confirms that my account has been compromised.
+
+    I have contacted official support through email and other channels, but I have not received any response for over a day.
+
+    This account contains all my work and personal archive. I urgently need help restoring access. I am afraid the attacker may delete the account permanently without any possibility of recovery.
+
+    Please help me recover my account.
+
+    Thank you.
+
+    ---
+
+    РУССКИЙ:
+
+    Здравствуйте,
+
+    Я не могу получить доступ к своему аккаунту Telegram. 30.08.2026 примерно в 22:30 по московскому времени меня внезапно выбросило из аккаунта на телефоне. При попытке войти снова единственный доступный вариант — ввести код, отправленный в активную сессию, к которой у меня нет доступа.
+
+    У меня есть доступ к номеру телефона, но возможности получить код по SMS или любым другим способом нет — только через активную сессию, которая, как я считаю, принадлежит злоумышленнику.
+
+    Кроме того, друзья, с которыми я недавно общалась, сказали, что все сообщения за последние 12 часов удалены из наших чатов. Это подтверждает, что мой аккаунт взломан.
+
+    Я обращалась в официальную поддержку по email и через другие каналы, но ответа все еще нет.
+
+    В этом аккаунте вся моя работа и весь личный архив. Мне срочно нужна помощь в восстановлении доступа. Я боюсь, что злоумышленник может удалить аккаунт навсегда без возможности восстановления.
+
+    Пожалуйста, помогите восстановить аккаунт.
+
+    Спасибо.
+
+labels:
+- support
+- security
